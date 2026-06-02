@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://patients2python.com.br/portfolio/](https://patients2python.com.br/portfolio/)
 
-- 📝 I regularly write articles on [Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7055730697537282048](Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7055730697537282048)
+- 📝 I regularly write articles on [Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7055730697537282048](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7055730697537282048)
 
 - 💬 Ask me about **Health analytics, epidemiology, Python, SQL, Power BI, predictive models, primary care and cost-effectiveness**
 
