@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gregório Rodrigues</h1>
 <h3 align="center">Physician, Data Scientist and Health Analytics Consultant focused on healthcare data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gregrodrigues22&label=Profile%20views&color=0e75b6&style=flat" alt="gregrodrigues22" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregrodrigues22" alt="gregrodrigues22" /></a> </p>
 
 - 🔭 I’m currently working on Health analytics projects, predictive models, cost-effectiveness studies and decision support tools for healthcare
