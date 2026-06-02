@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gregório Rodrigues</h1>
 <h3 align="center">Physician, Data Scientist and Health Analytics Consultant focused on healthcare data</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregrodrigues22" alt="gregrodrigues22" /></a> </p>
-
 - 🔭 I’m currently working on Health analytics projects, predictive models, cost-effectiveness studies and decision support tools for healthcare
 
 - 🌱 I’m currently learning **dbt, BigQuery, MLOps, Reflex and AI agents for health analytics**
